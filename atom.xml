@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sproutable Communities]]></title>
+  <link href="http://sproutable.org/atom.xml" rel="self"/>
+  <link href="http://sproutable.org/"/>
+  <updated>2015-02-07T11:49:20-06:00</updated>
+  <id>http://sproutable.org/</id>
+  <author>
+    <name><![CDATA[nate]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Back]]></title>
+    <link href="http://sproutable.org/news/2015/02/07/back/"/>
+    <updated>2015-02-07T10:26:28-06:00</updated>
+    <id>http://sproutable.org/news/2015/02/07/back</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a long time coming.  Finally have the blog back up.  Expect more to come soon.</p>
+
+<p>For now please check out the photo galleries!</p>
+]]></content>
+  </entry>
+  
+</feed>
